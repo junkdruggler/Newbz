@@ -1,7 +1,5 @@
 {
-	"Recents": [
-
-		{
+	"Recents": [{
 			"author": "Bobby Bray",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray6.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray6.jpg",
@@ -20,6 +18,11 @@
 			"author": "James Horton",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton1.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton1.jpg",
+			"name": "James Horton"
+		}, {
+			"author": "Corey",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow_city.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow_city.png",
 			"name": "James Horton"
 		}, {
 			"author": "Newbz",
