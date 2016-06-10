@@ -1,20 +1,7 @@
 {
-	"Recents": [{
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/blue_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/blue_city.png",
-			"name": "Blue City"
-		}, {
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/pruple_city.png",
-			"name": "Purple City"
-		}, {
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow_city.png",
-			"name": "Yellow City"
-		}, {
+	"Recents": [
+
+		{
 			"author": "Bobby Bray",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray6.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray6.jpg",
@@ -58,21 +45,6 @@
 
 	],
 	"All": [{
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/blue_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/blue_city.png",
-			"name": "Blue City"
-		}, {
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/pruple_city.png",
-			"name": "Purple City"
-		}, {
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow_city.png",
-			"name": "Yellow City"
-		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920.png",
@@ -297,21 +269,6 @@
 
 	],
 	"Minimal": [{
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/blue_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/blue_city.png",
-			"name": "Blue City"
-		}, {
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/pruple_city.png",
-			"name": "Purple City"
-		}, {
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow_city.png",
-			"name": "Yellow City"
-		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/city.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/city.jpg",
