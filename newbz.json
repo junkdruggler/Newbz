@@ -1,19 +1,26 @@
 {
-	"Recents": [{
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/blue_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/blue_city.png",
-			"name": "Blue City"
+	"Recents": [
+
+		{
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray6.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray6.jpg",
+			"name": "Bobby Bray"
 		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow_city.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow_city.jpg",
-			"name": "Yellow City"
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray3.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray3.jpg",
+			"name": "Bobby Bray"
 		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"name": "Purple City"
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton.jpg",
+			"name": "James Horton"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton1.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton1.jpg",
+			"name": "James Horton"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920.png",
@@ -24,11 +31,6 @@
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920_2.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920_2.png",
 			"name": "Material 2"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm5.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm5.jpg",
-			"name": "Sunrise"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920_3.png",
@@ -44,29 +46,19 @@
 	],
 	"All": [{
 			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/blue_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/blue_city.png",
-			"name": "Blue City"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow_city.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow_city.jpg",
-			"name": "Yellow City"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"name": "Purple City"
-		}, {
-			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920.png",
 			"name": "Material 1"
 		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm5.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm5.jpg",
-			"name": "Sunrise"
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray6.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray6.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton.jpg",
+			"name": "James Horton"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/Biloxi-harbor.jpg",
@@ -74,24 +66,19 @@
 			"name": "Biloxi Harbor"
 		}, {
 			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm2.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm2.jpg",
-			"name": "Purple Lines"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm3.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm3.jpg",
-			"name": "Blue Hue"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm4.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm4.jpg",
-			"name": "Green Gradient"
-		}, {
-			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920_2.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920_2.png",
 			"name": "Material 2"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray.png",
+			"name": "Bobby Bray"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton1.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton1.jpg",
+			"name": "James Horton"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920_3.png",
@@ -103,10 +90,20 @@
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920_5.png",
 			"name": "Material 4"
 		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm1.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm1.jpg",
-			"name": "Material 5"
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton2.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton2.jpg",
+			"name": "James Horton"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray1.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray1.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton4.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton4.jpg",
+			"name": "James Horton"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/city.jpg",
@@ -118,20 +115,50 @@
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/waves_2.jpg",
 			"name": "Waves 2"
 		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray2.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray2.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton5.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton5.jpg",
+			"name": "James Horton"
+		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/diagmat.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/diagmat.png",
 			"name": "diagmat"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray3.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray3.jpg",
+			"name": "Bobby Bray"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/nexus-bw.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/cg1.jpg",
 			"name": "Nexus light"
 		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray4.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray4.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton6.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton6.jpg",
+			"name": "James Horton"
+		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/nexus-bw4.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/cg2.jpg",
 			"name": "Nexus dark"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray5.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray5.jpg",
+			"name": "Bobby Bray"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/sparks_2.png",
@@ -147,21 +174,6 @@
 
 	"Material": [{
 			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/blue_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/blue_city.png",
-			"name": "Blue City"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow_city.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow_city.jpg",
-			"name": "Yellow City"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"name": "Purple City"
-		}, {
-			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920.png",
 			"name": "Material 1"
@@ -180,15 +192,75 @@
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920_5.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920_5.png",
 			"name": "Material 4"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm1.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm1.jpg",
-			"name": "Material 5"
 		}
 
 	],
 	"Photograph": [{
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray.png",
+			"name": "Bobby Bray"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray1.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray1.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray2.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray2.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray3.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray3.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray4.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray4.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray5.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray5.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "Bobby Bray",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray6.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray6.jpg",
+			"name": "Bobby Bray"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton.jpg",
+			"name": "James Horton"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton1.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton1.jpg",
+			"name": "James Horton"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton2.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton2.jpg",
+			"name": "James Horton"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton4.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton4.jpg",
+			"name": "James Horton"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton5.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton5.jpg",
+			"name": "James Horton"
+		}, {
+			"author": "James Horton",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton6.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton6.jpg",
+			"name": "James Horton"
+		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/Biloxi-harbor.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/Biloxi-harbor.jpg",
@@ -203,11 +275,6 @@
 			"name": "City"
 		}, {
 			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm5.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm5.jpg",
-			"name": "Sunrise"
-		}, {
-			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/waves_2.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/waves_2.jpg",
 			"name": "Waves 2"
@@ -216,21 +283,6 @@
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/diagmat.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/diagmat.png",
 			"name": "diagmat"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm2.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm2.jpg",
-			"name": "Purple Lines"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm3.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm3.jpg",
-			"name": "Blue Hue"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm4.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm4.jpg",
-			"name": "Green Gradient"
 		}
 
 	],
