@@ -1,8 +1,8 @@
 {
 	"Recents": [{
 			"author": "test",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/test.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/test.png",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm6.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm6.png",
 			"name": "test"
 		}, {
 			"author": "Bobby Bray",
@@ -19,11 +19,6 @@
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton1.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton1.jpg",
 			"name": "James Horton"
-		}, {
-			"author": "Corey",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/test.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/test.png",
-			"name": "Test"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920.png",
@@ -73,11 +68,6 @@
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920_2.png",
 			"name": "Material 2"
 		}, {
-			"author": "Bobby Bray",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray.png",
-			"name": "Bobby Bray"
-		}, {
 			"author": "James Horton",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton1.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton1.jpg",
@@ -109,13 +99,8 @@
 			"name": "James Horton"
 		}, {
 			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/city.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/city.jpg",
-			"name": "City"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/waves_2.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/waves_2.jpg",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/waves_2.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/waves_2.png",
 			"name": "Waves 2"
 		}, {
 			"author": "Bobby Bray",
@@ -200,11 +185,6 @@
 	],
 	"Photograph": [{
 			"author": "Bobby Bray",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray.png",
-			"name": "Bobby Bray"
-		}, {
-			"author": "Bobby Bray",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray1.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/bobby_bray1.jpg",
 			"name": "Bobby Bray"
@@ -273,8 +253,8 @@
 	],
 	"Minimal": [{
 			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/city.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/city.jpg",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow-city.jpg",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow-city.jpg",
 			"name": "City"
 		}, {
 			"author": "Newbz",
