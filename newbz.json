@@ -1,9 +1,24 @@
 {
 	"Recents": [{
-			"author": "test",
+			"author": "Mad",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm6.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm6.png",
-			"name": "test"
+			"name": "Gradient"
+		}, {
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm7.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm7.png",
+			"name": "Gradient"
+		}, {
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm8.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm8.png",
+			"name": "Gradient"
+		}, {
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm9.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm9.png",
+			"name": "Gradient"
 		}, {
 			"author": "Bobby Bray",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray3.jpg",
@@ -44,9 +59,24 @@
 	],
 	"All": [{
 			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/material1920.png",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm6.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm6.png",
 			"name": "Material 1"
+		}, {
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm7.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm7.png",
+			"name": "Gradient"
+		}, {
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm8.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm8.png",
+			"name": "Gradient"
+		}, {
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm9.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm9.png",
+			"name": "Gradient"
 		}, {
 			"author": "Bobby Bray",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray6.jpg",
@@ -97,11 +127,6 @@
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/james_horton4.jpg",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/james_horton4.jpg",
 			"name": "James Horton"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/waves_2.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/waves_2.png",
-			"name": "Test"
 		}, {
 			"author": "Bobby Bray",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/bobby_bray2.jpg",
@@ -252,10 +277,30 @@
 
 	],
 	"Minimal": [{
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm7.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm7.png",
+			"name": "Gradient"
+		}, {
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm8.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm8.png",
+			"name": "Gradient"
+		}, {
+			"author": "Mad",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm9.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm9.png",
+			"name": "Gradient"
+		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/blue_city.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/blue_city.png",
 			"name": "City"
+		}, {
+			"author": "Newbz",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm6.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm6.png",
+			"name": "Test"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/waves_2.jpg",
