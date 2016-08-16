@@ -5,6 +5,11 @@
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm6.png",
 			"name": "Gradient"
 		}, {
+			"author": "CJM",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/Mad_Pixels.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/Mad_Pixels_small.png",
+			"name": "Gradient"
+		}, {
 			"author": "Mad",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm7.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm7.png",
@@ -67,6 +72,11 @@
 		}
 	],
 	"All": [{
+			"author": "CJM",
+			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/Mad_Pixels.png",
+			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/Mad_Pixels_small.png",
+			"name": "Gradient"
+		},{
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/rm6.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/rm6.png",
@@ -208,16 +218,6 @@
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/blue_city.png",
 			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/blue_city.png",
 			"name": "Blue City"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/yellow_city.jpg",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/small/yellow_city.jpg",
-			"name": "Yellow City"
-		}, {
-			"author": "Newbz",
-			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"small_url": "https://raw.githubusercontent.com/CJM01/Newbz/master/purple_city.png",
-			"name": "Purple City"
 		}, {
 			"author": "Newbz",
 			"url": "https://raw.githubusercontent.com/CJM01/Newbz/master/material1920.png",
